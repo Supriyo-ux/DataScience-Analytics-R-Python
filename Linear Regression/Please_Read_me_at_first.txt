@@ -1,0 +1,8 @@
+library(e1071)
+library(alr3)
+library(corrplot)
+library(GGally)
+library(psych)
+library(caret)
+library(lattice)
+library(ggplot2)

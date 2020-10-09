@@ -1,0 +1,453 @@
+X,StartDate,Runs,BF,SR,Pos,Dismissal,Inns,Opposition,Ground,result,Score
+1,12/18/1989,0,2,0,5,caught,2,v Pakistan,Gujranwala,lost,80/9
+2,3/1/1990,0,2,0,5,caught,2,v New Zealand,Dunedin,lost,138
+3,3/6/1990,36,39,92.3,6,caught,1,v New Zealand,Wellington,won,221
+4,4/25/1990,10,12,83.33,5,run out,1,v Sri Lanka,Sharjah,lost,241/8
+5,4/27/1990,20,25,80,7,caught,2,v Pakistan,Sharjah,lost,209
+6,7/18/1990,19,35,54.28,4,bowled,2,v England,Leeds,won,233/4
+7,7/20/1990,31,26,119.23,6,bowled,2,v England,Nottingham,won,282/5
+8,12/1/1990,36,22,163.63,5,bowled,1,v Sri Lanka,Nagpur,won,245/5
+9,12/5/1990,53,41,129.26,5,bowled,2,v Sri Lanka,Pune,won,230/4
+10,12/8/1990,30,29,103.44,5,caught,1,v Sri Lanka,Margao,lost,136
+11,12/28/1990,4,11,36.36,5,lbw,2,v Sri Lanka,Cuttack,lost,178
+12,1/4/1991,53,70,75.71,4,lbw,2,v Sri Lanka,Kolkata,won,205/3
+13,10/18/1991,52,40,130,5,not out,1,v Pakistan,Sharjah,won,238/4
+14,10/19/1991,22,27,81.48,5,run out,1,v West Indies,Sharjah,won,240/6
+15,10/22/1991,11,27,40.74,5,not out,2,v West Indies,Sharjah,won,147/3
+16,10/23/1991,49,38,128.94,5,caught,2,v Pakistan,Sharjah,lost,253/6
+17,10/25/1991,0,1,0,5,lbw,2,v Pakistan,Sharjah,lost,190
+18,11/10/1991,62,73,84.93,4,caught,2,v South Africa,Kolkata,won,178/7
+19,11/12/1991,4,8,50,4,caught,1,v South Africa,Gwalior,won,223/6
+20,11/14/1991,1,3,33.33,4,caught,1,v South Africa,New Delhi,lost,287/4
+21,12/6/1991,1,9,11.11,4,caught,1,v West Indies,Perth,tied,126
+22,12/8/1991,36,65,55.38,4,caught,1,v Australia,Perth,won,208/7
+23,12/10/1991,57,107,53.27,4,caught,1,v Australia,Hobart,lost,175/8
+24,12/14/1991,48,57,84.21,4,caught,1,v West Indies,Adelaide,won,262/4
+25,12/15/1991,21,35,60,4,caught,1,v Australia,Adelaide,lost,157
+26,1/11/1992,77,127,60.62,4,caught,1,v West Indies,Brisbane,lost,191
+27,1/14/1992,31,44,70.45,5,run out,1,v Australia,Sydney,lost,175
+28,1/16/1992,57,88,64.77,4,not out,2,v West Indies,Melbourne,won,176/5
+29,1/18/1992,4,10,40,4,caught,2,v Australia,Melbourne,lost,145
+30,1/20/1992,69,100,69,4,caught,2,v Australia,Sydney,lost,202/7
+31,2/22/1992,35,44,79.54,4,caught,2,v England,Perth,lost,227
+32,3/1/1992,11,19,57.89,4,caught,2,v Australia,Brisbane,lost,234
+33,3/4/1992,54,62,87.09,5,not out,1,v Pakistan,Sydney,won,216/7
+34,3/7/1992,81,77,105.19,4,caught,1,v Zimbabwe,Hamilton,won,203/7
+35,3/10/1992,4,11,36.36,4,caught,1,v West Indies,Wellington,lost,197
+36,3/12/1992,84,107,78.5,4,caught,1,v New Zealand,Dunedin,lost,230/6
+37,3/15/1992,14,14,100,4,caught,1,v South Africa,Adelaide,lost,180/6
+38,10/25/1992,39,56,69.64,4,caught,1,v Zimbabwe,Harare,won,239
+39,12/7/1992,15,27,55.55,4,bowled,1,v South Africa,Cape Town,lost,184
+40,12/9/1992,10,36,27.77,4,caught,1,v South Africa,Port Elizabeth,lost,147
+41,12/11/1992,22,24,91.66,5,caught,2,v South Africa,Centurion,won,215/6
+42,12/13/1992,21,44,47.72,5,caught,1,v South Africa,Johannesburg,lost,161/9
+43,12/15/1992,32,52,61.53,5,bowled,1,v South Africa,Bloemfontein,lost,207/4
+44,12/17/1992,23,39,58.97,5,caught,2,v South Africa,Durban,lost,177
+45,12/19/1992,21,38,55.26,3,caught,2,v South Africa,East London,won,204/5
+46,1/18/1993,82,81,101.23,5,not out,1,v England,Jaipur,lost,223/3
+47,1/21/1993,1,5,20,5,lbw,2,v England,Chandigarh,won,201/5
+48,2/26/1993,3,6,50,4,caught,2,v England,Bangalore,lost,170
+49,3/1/1993,24,32,75,4,bowled,1,v England,Jamshedpur,lost,137/7
+50,3/4/1993,5,6,83.33,5,bowled,2,v England,Gwalior,won,257/7
+51,3/5/1993,34,30,113.33,5,caught,2,v England,Gwalior,won,267/6
+52,3/19/1993,3,9,33.33,5,caught,1,v Zimbabwe,Faridabad,won,249/7
+53,3/22/1993,8,6,133.33,5,not out,2,v Zimbabwe,Guwahati,won,150/3
+54,7/25/1993,21,39,53.84,5,caught,1,v Sri Lanka,Colombo (RPS),won,212/8
+55,8/12/1993,15,30,50,5,run out,2,v Sri Lanka,Colombo (RPS),lost,196
+56,8/14/1993,25,39,64.1,5,caught,1,v Sri Lanka,Moratuwa,lost,227/9
+57,11/7/1993,26,30,86.66,5,not out,2,v Sri Lanka,Kanpur,won,205/3
+58,11/16/1993,2,8,25,5,lbw,2,v West Indies,Ahmedabad,lost,100
+59,11/18/1993,24,16,150,6,caught,1,v Zimbabwe,Indore,tied,248/5
+60,11/22/1993,3,25,12,4,caught,1,v South Africa,Mohali,won,221
+61,11/24/1993,15,31,48.38,5,caught,1,v South Africa,Kolkata,won,195
+62,11/27/1993,28,43,65.11,5,not out,1,v West Indies,Kolkata,won,225/7
+63,2/15/1994,1,5,20,5,caught,1,v Sri Lanka,Rajkot,won,246/5
+64,2/18/1994,11,18,61.11,5,not out,2,v Sri Lanka,Hyderabad (Deccan),won,227/3
+65,2/20/1994,52,63,82.53,5,run out,1,v Sri Lanka,Jalandhar,lost,213/9
+66,3/25/1994,15,19,78.94,5,caught,2,v New Zealand,Napier,lost,212/9
+67,3/27/1994,82,49,167.34,2,caught,2,v New Zealand,Auckland,won,143/3
+68,3/30/1994,63,75,84,2,lbw,1,v New Zealand,Wellington,won,255/5
+69,4/2/1994,40,26,153.84,2,bowled,1,v New Zealand,Christchurch,lost,222/6
+70,4/13/1994,63,77,81.81,2,caught,1,v United Arab Emirates,Sharjah,won,273/5
+71,4/15/1994,73,64,114.06,2,caught,1,v Pakistan,Sharjah,lost,219
+72,4/19/1994,6,7,85.71,2,caught,2,v Australia,Sharjah,won,245/3
+73,4/22/1994,24,26,92.3,2,caught,2,v Pakistan,Sharjah,lost,211
+74,9/4/1994,11,16,68.75,2,not out,1,v Sri Lanka,Colombo (RPS),n/r,16/0
+75,9/5/1994,6,5,120,2,caught,1,v Sri Lanka,Colombo (RPS),lost,125/5
+76,9/9/1994,110,130,84.61,2,bowled,1,v Australia,Colombo (RPS),won,246/8
+77,9/17/1994,0,2,0,2,caught,2,v Sri Lanka,Colombo (SSC),won,99/4
+78,10/17/1994,0,4,0,2,caught,2,v West Indies,Faridabad,lost,177
+79,10/20/1994,0,4,0,2,caught,2,v West Indies,Mumbai,won,135/4
+80,10/23/1994,8,24,33.33,3,caught,2,v West Indies,Chennai,won,225/6
+81,10/28/1994,115,136,84.55,2,run out,2,v New Zealand,Vadodara,won,271/3
+82,10/30/1994,34,47,72.34,2,bowled,2,v West Indies,Kanpur,lost,211/5
+83,11/3/1994,62,54,114.81,2,bowled,1,v New Zealand,Delhi,won,289/3
+84,11/5/1994,66,68,97.05,2,caught,1,v West Indies,Kolkata,won,274/6
+85,11/7/1994,54,64,84.37,2,caught,1,v West Indies,Visakhapatnam,won,260/4
+86,11/9/1994,88,112,78.57,2,bowled,2,v West Indies,Cuttack,won,256/2
+87,11/11/1994,105,134,78.35,2,caught,1,v West Indies,Jaipur,won,259/5
+88,2/16/1995,13,15,86.66,2,caught,1,v New Zealand,Napier,lost,160
+89,2/18/1995,37,51,72.54,2,caught,2,v South Africa,Hamilton,lost,209/9
+90,2/22/1995,47,40,117.5,2,caught,2,v Australia,Dunedin,won,252/5
+91,4/5/1995,48,30,160,2,bowled,2,v Bangladesh,Sharjah,won,164/1
+92,4/7/1995,4,9,44.44,2,caught,2,v Pakistan,Sharjah,lost,169
+93,4/9/1995,112,107,104.67,2,not out,2,v Sri Lanka,Sharjah,won,206/2
+94,4/14/1995,41,41,100,2,caught,2,v Sri Lanka,Sharjah,won,233/2
+95,11/15/1995,30,20,150,2,caught,1,v New Zealand,Jamshedpur,lost,236
+96,11/18/1995,39,51,76.47,2,caught,2,v New Zealand,Amritsar,won,146/4
+97,11/24/1995,7,11,63.63,2,caught,2,v New Zealand,Pune,won,236/5
+98,11/26/1995,65,59,110.16,2,run out,2,v New Zealand,Nagpur,lost,249
+99,11/29/1995,1,4,25,2,bowled,2,v New Zealand,Mumbai (BS),won,128/4
+100,2/18/1996,127,138,92.02,2,not out,2,v Kenya,Cuttack,won,203/3
+101,2/21/1996,70,91,76.92,2,run out,2,v West Indies,Gwalior,won,174/5
+102,2/27/1996,90,84,107.14,2,stumped,2,v Australia,Mumbai,lost,242
+103,3/2/1996,137,137,100,2,run out,1,v Sri Lanka,Delhi,lost,271/3
+104,3/6/1996,3,12,25,1,bowled,1,v Zimbabwe,Kanpur,won,247/5
+105,3/9/1996,31,59,52.54,2,bowled,1,v Pakistan,Bangalore,won,287/8
+106,3/13/1996,65,88,73.86,1,stumped,2,v Sri Lanka,Kolkata,lost,120/8
+107,4/3/1996,28,31,90.32,1,caught,1,v Sri Lanka,Singapore,won,199
+108,4/5/1996,100,111,90.09,2,stumped,1,v Pakistan,Singapore,lost,226/8
+109,4/12/1996,1,5,20,2,caught,2,v Pakistan,Sharjah,lost,233
+110,4/14/1996,2,15,13.33,2,caught,2,v South Africa,Sharjah,lost,208/8
+111,4/15/1996,118,140,84.28,2,caught,1,v Pakistan,Sharjah,won,305/5
+112,4/17/1996,17,26,65.38,2,caught,1,v South Africa,Sharjah,lost,215/8
+113,4/19/1996,57,71,80.28,2,run out,2,v South Africa,Sharjah,lost,249/9
+114,5/23/1996,30,19,157.89,2,lbw,2,v England,The Oval,n/r,96/5
+115,5/25/1996,6,19,31.57,2,run out,1,v England,Leeds,lost,158
+116,5/26/1996,1,11,9.09,2,caught,1,v England,Manchester,lost,236/4
+117,8/28/1996,110,138,79.71,2,run out,1,v Sri Lanka,Colombo (RPS),lost,226/5
+118,9/1/1996,40,46,86.95,2,caught,2,v Zimbabwe,Colombo (SSC),won,229/3
+119,9/6/1996,7,11,63.63,2,caught,1,v Australia,Colombo (SSC),lost,201
+120,9/16/1996,89,89,100,2,not out,2,v Pakistan,Toronto,won,173/2
+121,9/17/1996,20,23,86.95,2,caught,1,v Pakistan,Toronto,lost,264/6
+122,9/18/1996,2,13,15.38,2,caught,1,v Pakistan,Toronto,won,191
+123,9/21/1996,3,9,33.33,2,caught,2,v Pakistan,Toronto,lost,161
+124,9/23/1996,23,44,52.27,2,run out,2,v Pakistan,Toronto,lost,161
+125,10/17/1996,11,8,137.5,2,caught,2,v South Africa,Hyderabad (Deccan),lost,214
+126,10/21/1996,88,111,79.27,2,lbw,2,v Australia,Bangalore,won,216/8
+127,10/23/1996,64,93,68.81,2,caught,2,v South Africa,Jaipur,lost,222/7
+128,10/29/1996,28,38,73.68,1,lbw,1,v South Africa,Rajkot,lost,185
+129,11/3/1996,62,60,103.33,1,caught,1,v Australia,Mohali,won,289/6
+130,11/6/1996,67,88,76.13,2,caught,1,v South Africa,Mumbai,won,220/7
+131,12/14/1996,114,126,90.47,1,stumped,1,v South Africa,Mumbai,won,267/6
+132,1/23/1997,0,4,0,2,bowled,2,v South Africa,Bloemfontein,lost,231
+133,1/27/1997,6,8,75,1,caught,2,v Zimbabwe,Paarl,tied,236
+134,2/2/1997,1,14,7.14,4,bowled,1,v South Africa,Port Elizabeth,lost,179/9
+135,2/4/1997,14,24,58.33,3,caught,1,v South Africa,East London,lost,232/5
+136,2/7/1997,41,56,73.21,4,caught,1,v Zimbabwe,Centurion,lost,216
+137,2/9/1997,104,97,107.21,2,caught,2,v Zimbabwe,Benoni,won,241/4
+138,2/12/1997,32,27,118.51,2,caught,1,v South Africa,Durban,n/r,191/9
+139,2/13/1997,45,33,136.36,2,caught,2,v South Africa,Durban,lost,234
+140,2/15/1997,13,15,86.66,2,caught,1,v Zimbabwe,Bulawayo,lost,168
+141,4/26/1997,44,43,102.32,1,caught,1,v West Indies,Port of Spain,lost,179
+142,4/27/1997,65,70,92.85,1,not out,2,v West Indies,Port of Spain,won,116/0
+143,4/30/1997,9,15,60,1,bowled,2,v West Indies,Kingstown,lost,231
+144,5/3/1997,1,11,9.09,1,caught,1,v West Indies,Bridgetown,lost,199/7
+145,5/14/1997,117,137,85.4,2,bowled,2,v New Zealand,Bangalore,won,221/2
+146,5/17/1997,2,4,50,2,caught,1,v Sri Lanka,Mumbai,lost,225/7
+147,5/21/1997,4,7,57.14,1,caught,2,v Pakistan,Chennai,lost,292
+148,7/18/1997,21,28,75,1,bowled,1,v Sri Lanka,Colombo (RPS),lost,227/6
+149,7/24/1997,28,21,133.33,2,bowled,2,v Bangladesh,Colombo (SSC),won,132/1
+150,7/26/1997,53,67,79.1,4,caught,1,v Sri Lanka,Colombo (RPS),lost,239/7
+151,8/17/1997,27,28,96.42,1,caught,2,v Sri Lanka,Colombo (RPS),lost,300/7
+152,8/20/1997,6,6,100,1,lbw,1,v Sri Lanka,Colombo (RPS),lost,238
+153,8/23/1997,27,31,87.09,2,caught,1,v Sri Lanka,Colombo (SSC),n/r,291/9
+154,8/24/1997,39,32,121.87,1,caught,2,v Sri Lanka,Colombo (SSC),lost,255/8
+155,9/13/1997,17,54,31.48,1,caught,1,v Pakistan,Toronto,won,208
+156,9/14/1997,25,45,55.55,4,not out,2,v Pakistan,Toronto,won,117/3
+157,9/18/1997,0,10,0,4,caught,1,v Pakistan,Toronto,won,182/6
+158,9/20/1997,6,7,85.71,1,caught,2,v Pakistan,Toronto,won,162/3
+159,9/21/1997,51,64,79.68,1,lbw,1,v Pakistan,Toronto,lost,250/5
+160,9/28/1997,2,11,18.18,1,bowled,1,v Pakistan,Hyderabad (Sind),lost,170
+161,9/30/1997,21,18,116.66,1,caught,2,v Pakistan,Karachi,won,266/6
+162,10/2/1997,7,11,63.63,1,caught,1,v Pakistan,Lahore,lost,216
+163,12/11/1997,91,87,104.59,4,stumped,2,v England,Sharjah,lost,243
+164,12/14/1997,3,4,75,5,caught,1,v Pakistan,Sharjah,lost,239/7
+165,12/16/1997,1,2,50,4,run out,2,v West Indies,Sharjah,lost,188
+166,12/22/1997,82,86,95.34,4,not out,2,v Sri Lanka,Guwahati,won,173/3
+167,12/28/1997,6,13,46.15,3,caught,1,v Sri Lanka,Margao,lost,228/6
+168,1/10/1998,54,76,71.05,4,caught,2,v Bangladesh,Dhaka,won,191/6
+169,1/11/1998,67,44,152.27,2,stumped,1,v Pakistan,Dhaka,won,245/7
+170,1/14/1998,95,78,121.79,2,bowled,2,v Pakistan,Dhaka,won,213/2
+171,1/16/1998,1,6,16.66,2,bowled,1,v Pakistan,Dhaka,lost,189
+172,1/18/1998,41,26,157.69,2,caught,2,v Pakistan,Dhaka,won,316/7
+173,4/1/1998,8,11,72.72,2,caught,1,v Australia,Kochi,won,309/5
+174,4/5/1998,5,17,29.41,2,run out,1,v Zimbabwe,Vadodara,won,274/5
+175,4/7/1998,100,89,112.35,2,caught,2,v Australia,Kanpur,won,223/4
+176,4/9/1998,1,2,50,2,caught,1,v Zimbabwe,Cuttack,won,301/3
+177,4/14/1998,15,24,62.5,2,caught,1,v Australia,Delhi,lost,227
+178,4/17/1998,40,41,97.56,1,caught,1,v New Zealand,Sharjah,won,220/9
+179,4/19/1998,80,72,111.11,2,caught,2,v Australia,Sharjah,lost,206
+180,4/20/1998,38,58,65.51,1,run out,1,v New Zealand,Sharjah,lost,181
+181,4/22/1998,143,131,109.16,2,caught,2,v Australia,Sharjah,lost,250/5
+182,4/24/1998,134,131,102.29,2,lbw,2,v Australia,Sharjah,won,275/4
+183,5/25/1998,33,29,113.79,2,caught,2,v Bangladesh,Mumbai,won,116/5
+184,5/28/1998,18,25,72,2,caught,2,v Kenya,Gwalior,lost,196
+185,5/31/1998,100,103,97.08,2,not out,2,v Kenya,Kolkata,won,197/1
+186,6/19/1998,65,50,130,2,caught,2,v Sri Lanka,Colombo (RPS),won,246/2
+187,6/23/1998,53,36,147.22,2,caught,2,v New Zealand,Colombo (RPS),n/r,131/2
+188,7/1/1998,17,16,106.25,2,caught,2,v Sri Lanka,Colombo (SSC),lost,163
+189,7/7/1998,128,131,97.7,2,stumped,1,v Sri Lanka,Colombo (RPS),won,307/6
+190,9/20/1998,77,109,70.64,2,caught,1,v Pakistan,Toronto,lost,256/9
+191,9/26/1998,127,130,97.69,2,not out,2,v Zimbabwe,Bulawayo,won,216/2
+192,9/27/1998,29,21,138.09,1,caught,2,v Zimbabwe,Bulawayo,won,236/2
+193,9/30/1998,2,6,33.33,2,caught,2,v Zimbabwe,Harare,lost,222
+194,10/28/1998,141,128,110.15,2,run out,1,v Australia,Dhaka,won,307/8
+195,10/31/1998,8,14,57.14,2,caught,1,v West Indies,Dhaka,lost,242/6
+196,11/6/1998,3,6,50,2,caught,2,v Sri Lanka,Sharjah,won,248/7
+197,11/8/1998,118,112,105.35,2,not out,2,v Zimbabwe,Sharjah,won,197/3
+198,11/9/1998,18,28,64.28,1,caught,1,v Sri Lanka,Sharjah,won,179
+199,11/11/1998,11,12,91.66,2,caught,2,v Zimbabwe,Sharjah,lost,192
+200,11/13/1998,124,92,134.78,2,not out,2,v Zimbabwe,Sharjah,won,197/0
+201,1/9/1999,0,5,0,2,caught,1,v New Zealand,Taupo,lost,257/5
+202,1/12/1999,23,19,121.05,2,caught,2,v New Zealand,Napier,won,214/8
+203,1/14/1999,45,42,107.14,2,stumped,1,v New Zealand,Wellington,n/r,208/4
+204,1/16/1999,5,12,41.66,1,lbw,2,v New Zealand,Auckland,won,208/5
+205,5/15/1999,28,46,60.86,2,caught,1,v South Africa,Hove,lost,253/5
+206,5/23/1999,140,101,138.61,4,not out,1,v Kenya,Bristol,won,329/2
+207,5/26/1999,2,3,66.66,4,bowled,1,v Sri Lanka,Taunton,won,373/6
+208,5/29/1999,22,40,55,4,caught,1,v England,Birmingham,won,232/8
+209,6/4/1999,0,4,0,2,caught,2,v Australia,The Oval,lost,205
+210,6/8/1999,45,65,69.23,1,caught,1,v Pakistan,Manchester,won,227/6
+211,6/12/1999,16,22,72.72,1,bowled,1,v New Zealand,Nottingham,lost,251/6
+212,8/23/1999,14,33,42.42,2,caught,1,v Australia,Galle,lost,151/7
+213,8/25/1999,37,58,63.79,2,run out,1,v Sri Lanka,Colombo (RPS),lost,205/8
+214,8/29/1999,120,141,85.1,1,caught,1,v Sri Lanka,Colombo (SSC),won,296/4
+215,9/4/1999,85,72,118.05,2,caught,1,v Zimbabwe,Singapore,won,245/6
+216,9/7/1999,40,65,61.53,1,caught,1,v West Indies,Singapore,n/r,149/6
+217,9/8/1999,0,6,0,1,caught,1,v West Indies,Singapore,lost,254/6
+218,11/5/1999,32,31,103.22,2,caught,2,v New Zealand,Rajkot,lost,306
+219,11/8/1999,186,150,124,2,not out,1,v New Zealand,Hyderabad (Deccan),won,376/2
+220,11/11/1999,1,23,4.34,2,caught,1,v New Zealand,Gwalior,won,261/5
+221,11/14/1999,2,10,20,2,caught,2,v New Zealand,Guwahati,lost,188
+222,11/17/1999,0,3,0,4,caught,2,v New Zealand,Delhi,won,181/3
+223,1/10/2000,13,26,50,4,bowled,1,v Pakistan,Brisbane,lost,195
+224,1/12/2000,12,11,109.09,4,run out,2,v Australia,Melbourne,lost,241/6
+225,1/14/2000,1,11,9.09,2,caught,1,v Australia,Sydney,lost,100
+226,1/21/2000,93,103,90.29,1,bowled,2,v Pakistan,Hobart,lost,230
+227,1/25/2000,41,46,89.13,1,caught,1,v Pakistan,Adelaide,won,267/6
+228,1/26/2000,18,28,64.28,1,caught,2,v Australia,Adelaide,lost,177
+229,1/28/2000,17,14,121.42,1,caught,2,v Pakistan,Perth,lost,157
+230,1/30/2000,3,21,14.28,2,bowled,1,v Australia,Perth,lost,226/6
+231,3/9/2000,26,25,104,2,caught,2,v South Africa,Kochi,won,302/7
+232,3/12/2000,21,31,67.74,2,caught,2,v South Africa,Jamshedpur,won,203/4
+233,3/15/2000,12,28,42.85,2,lbw,1,v South Africa,Faridabad,lost,248/8
+234,3/17/2000,122,138,88.4,2,caught,2,v South Africa,Vadodara,won,283/6
+235,3/19/2000,93,89,104.49,2,caught,2,v South Africa,Nagpur,lost,310
+236,3/22/2000,5,8,62.5,2,bowled,1,v South Africa,Sharjah,lost,164
+237,3/23/2000,11,28,39.28,2,lbw,2,v Pakistan,Sharjah,won,149/5
+238,3/26/2000,10,18,55.55,2,bowled,2,v Pakistan,Sharjah,lost,174/9
+239,3/27/2000,39,68,57.35,1,run out,1,v South Africa,Sharjah,lost,164
+240,5/30/2000,36,25,144,2,caught,2,v Bangladesh,Dhaka,won,252/2
+241,6/1/2000,93,95,97.89,2,caught,2,v Sri Lanka,Dhaka,lost,205
+242,6/3/2000,25,30,83.33,2,lbw,2,v Pakistan,Dhaka,lost,251
+243,10/3/2000,25,35,71.42,2,lbw,2,v Kenya,Nairobi (Gym),won,209/2
+244,10/7/2000,38,37,102.7,2,caught,1,v Australia,Nairobi (Gym),won,265/9
+245,10/13/2000,39,50,78,2,caught,1,v South Africa,Nairobi (Gym),won,295/6
+246,10/15/2000,69,83,83.13,2,run out,1,v New Zealand,Nairobi (Gym),lost,264/6
+247,10/20/2000,101,140,72.14,2,run out,1,v Sri Lanka,Sharjah,lost,224/8
+248,10/22/2000,8,15,53.33,2,caught,1,v Zimbabwe,Sharjah,won,265/8
+249,10/26/2000,4,10,40,1,caught,2,v Zimbabwe,Sharjah,won,219/7
+250,10/27/2000,61,54,112.96,2,caught,2,v Sri Lanka,Sharjah,lost,226
+251,10/29/2000,5,11,45.45,2,caught,2,v Sri Lanka,Sharjah,lost,54
+252,12/2/2000,44,49,89.79,2,caught,2,v Zimbabwe,Cuttack,won,255/7
+253,12/5/2000,8,20,40,1,caught,1,v Zimbabwe,Ahmedabad,won,306/5
+254,12/8/2000,146,153,95.42,2,caught,1,v Zimbabwe,Jodhpur,lost,283/8
+255,12/11/2000,62,86,72.09,2,lbw,2,v Zimbabwe,Kanpur,won,166/1
+256,12/14/2000,27,38,71.05,2,bowled,1,v Zimbabwe,Rajkot,won,301/6
+257,3/25/2001,35,26,134.61,2,run out,1,v Australia,Bangalore,won,315
+258,3/28/2001,32,29,110.34,2,caught,1,v Australia,Pune,lost,248/9
+259,3/31/2001,139,125,111.2,2,caught,1,v Australia,Indore,won,299/8
+260,4/3/2001,62,38,163.15,2,caught,2,v Australia,Visakhapatnam,lost,245
+261,4/6/2001,12,15,80,2,caught,1,v Australia,Margao,lost,265/6
+262,6/24/2001,70,70,100,2,not out,2,v Zimbabwe,Harare,won,137/1
+263,6/27/2001,9,27,33.33,2,caught,2,v Zimbabwe,Bulawayo,won,237/6
+264,6/30/2001,81,110,73.63,2,not out,2,v West Indies,Bulawayo,won,170/4
+265,7/4/2001,122,131,93.12,2,not out,2,v West Indies,Harare,won,230/4
+266,7/7/2001,0,4,0,2,caught,2,v West Indies,Harare,lost,274/8
+267,10/5/2001,101,129,78.29,2,caught,1,v South Africa,Johannesburg,lost,279/5
+268,10/10/2001,38,57,66.66,2,caught,1,v South Africa,Centurion,won,233
+269,10/17/2001,3,20,15,2,bowled,2,v Kenya,Port Elizabeth,lost,176
+270,10/19/2001,37,35,105.71,2,bowled,2,v South Africa,East London,lost,236
+271,10/24/2001,146,132,110.6,2,caught,1,v Kenya,Paarl,won,351/3
+272,10/26/2001,17,42,40.47,2,bowled,1,v South Africa,Durban,lost,183
+273,1/19/2002,36,43,83.72,2,bowled,1,v England,Kolkata,won,281/8
+274,1/22/2002,45,60,75,2,run out,2,v England,Cuttack,lost,234
+275,1/25/2002,68,79,86.07,1,lbw,2,v England,Chennai,won,221/6
+276,1/28/2002,87,67,129.85,1,not out,2,v England,Kanpur,won,219/2
+277,1/31/2002,18,16,112.5,2,caught,2,v England,Delhi,lost,269/8
+278,2/3/2002,12,18,66.66,2,caught,2,v England,Mumbai,lost,250
+279,5/29/2002,34,45,75.55,4,not out,2,v West Indies,Bridgetown,won,187/3
+280,6/2/2002,65,70,92.85,4,bowled,1,v West Indies,Port of Spain,won,260
+281,6/29/2002,1,9,11.11,4,lbw,2,v England,Lord's,won,272/4
+282,6/30/2002,49,70,70,4,caught,2,v Sri Lanka,The Oval,won,203/6
+283,7/4/2002,105,108,97.22,4,not out,1,v England,Chester-le-Street,n/r,285/4
+284,7/6/2002,19,25,76,4,caught,2,v Sri Lanka,Birmingham,won,188/6
+285,7/9/2002,36,29,124.13,4,caught,2,v England,The Oval,lost,165
+286,7/11/2002,113,102,110.78,4,caught,1,v Sri Lanka,Bristol,won,304
+287,7/13/2002,14,19,73.68,4,bowled,2,v England,Lord's,won,326/8
+288,9/14/2002,7,16,43.75,4,caught,1,v Zimbabwe,Colombo (RPS),won,288/6
+289,9/22/2002,9,20,45,4,not out,2,v England,Colombo (RPS),won,271/2
+290,9/25/2002,16,29,55.17,4,run out,1,v South Africa,Colombo (RPS),won,261/9
+291,9/30/2002,7,22,31.81,3,not out,2,v Sri Lanka,Colombo (RPS),n/r,38/1
+292,1/8/2003,0,10,0,4,lbw,2,v New Zealand,Wellington,won,169/8
+293,1/11/2003,1,13,7.69,4,caught,2,v New Zealand,Auckland,won,200/9
+294,1/14/2003,1,6,16.66,3,caught,1,v New Zealand,Hamilton,lost,122
+295,2/12/2003,52,72,72.22,2,caught,1,v Netherlands,Paarl,won,204
+296,2/15/2003,36,59,61.01,2,lbw,1,v Australia,Centurion,lost,125
+297,2/19/2003,81,91,89.01,2,bowled,1,v Zimbabwe,Harare,won,255/7
+298,2/23/2003,152,151,100.66,2,bowled,1,v Namibia,Pietermaritzburg,won,311/2
+299,2/26/2003,50,52,96.15,2,caught,1,v England,Durban,won,250/9
+300,3/1/2003,98,75,130.66,1,caught,2,v Pakistan,Centurion,won,276/4
+301,3/7/2003,5,12,41.66,2,caught,2,v Kenya,Cape Town,won,226/4
+302,3/10/2003,97,120,80.83,1,caught,1,v Sri Lanka,Johannesburg,won,292/6
+303,3/14/2003,15,16,93.75,2,caught,2,v New Zealand,Centurion,won,150/3
+304,3/20/2003,83,101,82.17,2,caught,1,v Kenya,Durban,won,270/4
+305,3/23/2003,4,5,80,1,caught,2,v Australia,Johannesburg,lost,234
+306,10/23/2003,48,66,72.72,2,not out,1,v New Zealand,Chennai,n/r,141/3
+307,10/26/2003,100,119,84.03,2,caught,1,v Australia,Gwalior,won,283/5
+308,11/1/2003,68,76,89.47,2,bowled,2,v Australia,Mumbai,lost,209
+309,11/6/2003,14,14,100,2,lbw,1,v New Zealand,Cuttack,lost,246/9
+310,11/12/2003,89,91,97.8,2,bowled,2,v Australia,Bangalore,lost,286/8
+311,11/15/2003,102,91,112.08,2,caught,1,v New Zealand,Hyderabad (Deccan),won,353/5
+312,11/18/2003,45,66,68.18,1,bowled,2,v Australia,Kolkata,lost,198
+313,1/9/2004,63,69,91.3,2,caught,2,v Australia,Melbourne,lost,270
+314,1/14/2004,44,59,74.57,2,bowled,2,v Zimbabwe,Hobart,won,211/3
+315,1/18/2004,86,95,90.52,2,caught,1,v Australia,Brisbane,won,303/4
+316,2/1/2004,5,6,83.33,2,caught,1,v Australia,Perth,lost,203
+317,2/3/2004,3,8,37.5,2,caught,2,v Zimbabwe,Perth,won,136/6
+318,2/6/2004,8,22,36.36,2,bowled,1,v Australia,Melbourne,lost,222
+319,2/8/2004,27,40,67.5,2,caught,2,v Australia,Sydney,lost,151
+320,3/13/2004,28,35,80,2,caught,1,v Pakistan,Karachi,won,349/7
+321,3/16/2004,141,135,104.44,2,caught,2,v Pakistan,Rawalpindi,lost,317
+322,3/19/2004,0,5,0,2,caught,1,v Pakistan,Peshawar,lost,244/9
+323,3/21/2004,7,13,53.84,2,caught,2,v Pakistan,Lahore,won,294/5
+324,3/24/2004,37,48,77.08,2,caught,1,v Pakistan,Lahore,won,293/7
+325,7/16/2004,18,25,72,2,caught,1,v United Arab Emirates,Dambulla,won,260/6
+326,7/18/2004,11,13,84.61,1,caught,2,v Sri Lanka,Dambulla,lost,270/8
+327,7/21/2004,82,126,65.07,2,not out,2,v Bangladesh,Colombo (SSC),won,178/2
+328,7/25/2004,78,103,75.72,2,caught,2,v Pakistan,Colombo (RPS),lost,241/8
+329,7/27/2004,18,21,85.71,1,lbw,1,v Sri Lanka,Colombo (RPS),won,271/6
+330,8/1/2004,74,100,74,2,bowled,2,v Sri Lanka,Colombo (RPS),lost,203/9
+331,11/13/2004,16,17,94.11,2,run out,1,v Pakistan,Kolkata,lost,292/6
+332,12/23/2004,19,32,59.37,2,caught,1,v Bangladesh,Chittagong,won,245/8
+333,12/27/2004,47,42,111.9,2,caught,1,v Bangladesh,Dhaka,won,348/5
+334,4/2/2005,4,4,100,2,caught,1,v Pakistan,Kochi,won,281/8
+335,4/5/2005,2,8,25,2,run out,1,v Pakistan,Visakhapatnam,won,356/9
+336,4/9/2005,6,11,54.54,2,caught,2,v Pakistan,Jamshedpur,lost,213
+337,4/12/2005,123,130,94.61,2,bowled,1,v Pakistan,Ahmedabad,lost,315/6
+338,4/15/2005,1,10,10,2,caught,1,v Pakistan,Kanpur,lost,249/6
+339,4/17/2005,9,15,60,2,bowled,2,v Pakistan,Delhi,lost,144
+340,10/25/2005,93,96,96.87,2,caught,1,v Sri Lanka,Nagpur,won,350/6
+341,10/28/2005,67,69,97.1,2,not out,2,v Sri Lanka,Mohali,won,123/2
+342,10/31/2005,2,3,66.66,2,caught,2,v Sri Lanka,Jaipur,won,303/4
+343,11/3/2005,11,19,57.89,2,bowled,2,v Sri Lanka,Pune,won,262/6
+344,11/9/2005,19,30,63.33,2,caught,2,v Sri Lanka,Rajkot,won,197/3
+345,11/12/2005,39,48,81.25,2,caught,2,v Sri Lanka,Vadodara,won,245/5
+346,11/16/2005,2,9,22.22,2,caught,1,v South Africa,Hyderabad (Deccan),lost,249/9
+347,11/19/2005,2,22,9.09,2,caught,2,v South Africa,Bangalore,won,171/4
+348,11/25/2005,2,15,13.33,3,caught,1,v South Africa,Kolkata,lost,188
+349,11/28/2005,30,44,68.18,2,caught,2,v South Africa,Mumbai,won,224/5
+350,2/6/2006,100,113,88.49,2,lbw,1,v Pakistan,Peshawar,lost,328
+351,2/11/2006,42,43,97.67,2,caught,2,v Pakistan,Rawalpindi,won,266/3
+352,2/13/2006,95,104,91.34,2,caught,2,v Pakistan,Lahore,won,292/5
+353,2/16/2006,0,3,0,2,caught,2,v Pakistan,Multan,won,162/5
+354,8/18/2006,2,3,66.66,2,not out,1,v Sri Lanka,Colombo (SSC),n/r,Nov-00
+355,9/14/2006,141,148,95.27,2,not out,1,v West Indies,Kuala Lumpur,lost,309/5
+356,9/16/2006,12,17,70.58,2,caught,2,v Australia,Kuala Lumpur,n/r,35/5
+357,9/20/2006,65,102,63.72,2,run out,1,v West Indies,Kuala Lumpur,won,162
+358,9/22/2006,4,10,40,2,caught,2,v Australia,Kuala Lumpur,lost,195
+359,10/15/2006,35,41,85.36,2,lbw,2,v England,Jaipur,won,126/6
+360,10/26/2006,29,45,64.44,2,bowled,1,v West Indies,Ahmedabad,lost,223/9
+361,10/29/2006,10,26,38.46,2,caught,1,v Australia,Mohali,lost,249/8
+362,11/22/2006,35,51,68.62,2,bowled,2,v South Africa,Durban,lost,91
+363,11/26/2006,2,9,22.22,2,caught,2,v South Africa,Cape Town,lost,168
+364,11/29/2006,1,3,33.33,3,caught,2,v South Africa,Port Elizabeth,lost,163
+365,12/3/2006,55,97,56.7,2,caught,1,v South Africa,Centurion,lost,200/9
+366,1/21/2007,31,38,81.57,3,lbw,1,v West Indies,Nagpur,won,338/3
+367,1/24/2007,0,6,0,4,caught,1,v West Indies,Cuttack,won,189
+368,1/27/2007,60,66,90.9,4,caught,1,v West Indies,Chennai,lost,268
+369,1/31/2007,100,76,131.57,4,not out,1,v West Indies,Vadodara,won,341/3
+370,2/11/2007,54,61,88.52,4,stumped,2,v Sri Lanka,Rajkot,lost,252/9
+371,2/14/2007,1,8,12.5,3,bowled,2,v Sri Lanka,Margao,won,233/5
+372,3/17/2007,7,26,26.92,4,caught,1,v Bangladesh,Port of Spain,lost,191
+373,3/19/2007,57,29,196.55,6,not out,1,v Bermuda,Port of Spain,won,413/5
+374,3/23/2007,0,3,0,4,bowled,2,v Sri Lanka,Port of Spain,lost,185
+375,6/23/2007,4,3,133.33,2,bowled,2,v Ireland,Belfast,won,171/1
+376,6/26/2007,99,143,69.23,2,run out,1,v South Africa,Belfast,lost,242/8
+377,6/29/2007,93,106,87.73,2,bowled,2,v South Africa,Belfast,won,227/4
+378,7/1/2007,8,8,100,2,caught,2,v South Africa,Belfast,won,152/4
+379,8/21/2007,17,33,51.51,2,caught,2,v England,Southampton,lost,184
+380,8/24/2007,99,112,88.39,2,caught,1,v England,Bristol,won,329/7
+381,8/27/2007,8,19,42.1,2,caught,2,v England,Birmingham,lost,239
+382,8/30/2007,55,86,63.95,2,caught,1,v England,Manchester,lost,212
+383,9/2/2007,71,59,120.33,2,caught,1,v England,Leeds,won,324/6
+384,9/5/2007,94,81,116.04,2,caught,2,v England,The Oval,won,317/8
+385,9/8/2007,30,46,65.21,2,caught,1,v England,Lord's,lost,187
+386,9/29/2007,0,6,0,2,lbw,2,v Australia,Bangalore,n/r,1-Sep
+387,10/2/2007,16,25,64,2,caught,2,v Australia,Kochi,lost,222
+388,10/5/2007,43,71,60.56,2,bowled,2,v Australia,Hyderabad (Deccan),lost,243
+389,10/8/2007,79,119,66.38,2,run out,1,v Australia,Chandigarh,won,291/4
+390,10/11/2007,47,73,64.38,2,caught,1,v Australia,Vadodara,lost,148
+391,10/14/2007,72,72,100,2,stumped,2,v Australia,Nagpur,lost,299/7
+392,10/17/2007,21,36,58.33,2,bowled,2,v Australia,Mumbai,won,195/8
+393,11/5/2007,4,7,57.14,2,lbw,2,v Pakistan,Guwahati,won,242/5
+394,11/8/2007,99,91,108.79,2,caught,1,v Pakistan,Mohali,lost,321/9
+395,11/11/2007,29,27,107.4,2,caught,1,v Pakistan,Kanpur,won,294/6
+396,11/15/2007,97,102,95.09,2,bowled,2,v Pakistan,Gwalior,won,260/4
+397,11/18/2007,30,27,111.11,2,caught,2,v Pakistan,Jaipur,lost,275
+398,2/3/2008,10,17,58.82,2,hit wicket,1,v Australia,Brisbane,n/r,194
+399,2/5/2008,35,52,67.3,2,bowled,1,v Sri Lanka,Brisbane,n/r,267/4
+400,2/10/2008,44,54,81.48,2,caught,2,v Australia,Melbourne,won,160/5
+401,2/12/2008,32,30,106.66,2,caught,1,v Sri Lanka,Canberra,lost,195/5
+402,2/17/2008,5,15,33.33,2,lbw,2,v Australia,Adelaide,lost,153
+403,2/19/2008,0,2,0,2,bowled,2,v Sri Lanka,Adelaide,won,239/8
+404,2/24/2008,2,3,66.66,2,lbw,2,v Australia,Sydney,lost,299
+405,2/26/2008,63,54,116.66,2,caught,2,v Sri Lanka,Hobart,won,180/3
+406,3/2/2008,117,120,97.5,2,not out,2,v Australia,Sydney,won,242/4
+407,3/4/2008,91,121,75.2,2,caught,1,v Australia,Brisbane,won,258/9
+408,11/23/2008,11,21,52.38,2,bowled,1,v England,Bangalore,won,166/4
+409,11/26/2008,50,57,87.71,2,bowled,2,v England,Cuttack,won,273/4
+410,1/28/2009,5,16,31.25,2,lbw,2,v Sri Lanka,Dambulla,won,247/4
+411,1/31/2009,6,9,66.66,2,lbw,1,v Sri Lanka,Colombo (RPS),won,256/9
+412,2/3/2009,7,12,58.33,2,lbw,1,v Sri Lanka,Colombo (RPS),won,363/5
+413,3/3/2009,20,23,86.95,2,caught,1,v New Zealand,Napier,won,273/4
+414,3/6/2009,61,69,88.4,2,lbw,1,v New Zealand,Wellington,n/r,188/4
+415,3/8/2009,163,133,122.55,2,retired notout,1,v New Zealand,Christchurch,won,392/4
+416,9/11/2009,46,55,83.63,2,caught,2,v New Zealand,Colombo (RPS),won,156/4
+417,9/12/2009,27,33,81.81,2,caught,2,v Sri Lanka,Colombo (RPS),lost,168
+418,9/14/2009,138,133,103.75,2,lbw,1,v Sri Lanka,Colombo (RPS),won,319/5
+419,9/26/2009,8,14,57.14,2,caught,2,v Pakistan,Centurion,lost,248
+420,10/25/2009,14,29,48.27,2,caught,2,v Australia,Vadodara,lost,288/8
+421,10/28/2009,4,8,50,2,caught,1,v Australia,Nagpur,won,354/7
+422,10/31/2009,32,47,68.08,2,run out,2,v Australia,Delhi,won,230/4
+423,11/2/2009,40,68,58.82,2,lbw,2,v Australia,Mohali,lost,226
+424,11/5/2009,175,141,124.11,2,caught,2,v Australia,Hyderabad (Deccan),lost,347
+425,11/8/2009,10,17,58.82,2,caught,1,v Australia,Guwahati,lost,170
+426,12/15/2009,69,63,109.52,2,bowled,1,v Sri Lanka,Rajkot,won,414/7
+427,12/18/2009,43,52,82.69,2,stumped,1,v Sri Lanka,Nagpur,lost,301/7
+428,12/21/2009,96,104,92.3,2,not out,2,v Sri Lanka,Cuttack,won,243/3
+429,12/24/2009,8,8,100,2,caught,2,v Sri Lanka,Kolkata,won,317/3
+430,2/21/2010,4,5,80,2,run out,1,v South Africa,Jaipur,won,298/9
+431,2/24/2010,200,147,136.05,2,not out,1,v South Africa,Gwalior,won,401/3
+432,1/12/2011,7,11,63.63,2,caught,2,v South Africa,Durban,lost,154
+433,1/15/2011,24,44,54.54,2,bowled,1,v South Africa,Johannesburg,won,190
+434,2/19/2011,28,29,96.55,2,run out,1,v Bangladesh,Dhaka,won,370/4
+435,2/27/2011,120,115,104.34,2,caught,1,v England,Bangalore,tied,338
+436,3/6/2011,38,56,67.85,2,lbw,2,v Ireland,Bangalore,won,210/5
+437,3/9/2011,27,22,122.72,2,caught,2,v Netherlands,Delhi,won,191/5
+438,3/12/2011,111,101,109.9,2,caught,1,v South Africa,Nagpur,lost,296
+439,3/20/2011,2,4,50,2,caught,1,v West Indies,Chennai,won,268
+440,3/24/2011,53,68,77.94,2,caught,2,v Australia,Ahmedabad,won,261/5
+441,3/30/2011,85,115,73.91,2,caught,1,v Pakistan,Mohali,won,260/9
+442,4/2/2011,18,14,128.57,2,caught,2,v Sri Lanka,Mumbai,won,277/4
+443,2/5/2012,2,6,33.33,2,caught,2,v Australia,Melbourne,lost,151
+444,2/8/2012,48,63,76.19,2,bowled,2,v Sri Lanka,Perth,won,234/6
+445,2/14/2012,15,24,62.5,2,caught,2,v Sri Lanka,Adelaide,tied,236/9
+446,2/19/2012,3,12,25,2,caught,2,v Australia,Brisbane,lost,178
+447,2/21/2012,22,23,95.65,2,bowled,2,v Sri Lanka,Brisbane,lost,238
+448,2/26/2012,14,15,93.33,2,run out,2,v Australia,Sydney,lost,165
+449,2/28/2012,39,30,130,2,lbw,2,v Sri Lanka,Hobart,won,321/3
+450,3/13/2012,6,19,31.57,2,caught,1,v Sri Lanka,Dhaka,won,304/3
+451,3/16/2012,114,147,77.55,2,caught,1,v Bangladesh,Dhaka,lost,289/5
+452,3/18/2012,52,48,108.33,2,caught,2,v Pakistan,Dhaka,won,330/4

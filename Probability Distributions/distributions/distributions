@@ -1,0 +1,14 @@
+It is applied to a single variable discrete data where results are the no. of “successful outcomes”.
+In this article, we are going to cover what is Binomial and Poisson Distribution in R. Along with this, we will study various uses of it, other symbols, formulas, and their differences.
+For example:
+
+The number of times the lights are red in 10 sets of traffic lights,
+Number of students with green eyes in a class of 30,
+A number of plants with diseased leaves from a sample of 60 plants.
+We use it to calculate the probability of occurrences exactly, less than, more than, between given values.
+
+For example:
+
+“ The probability that the number of red lights will be exactly 7”
+“Probability that the number of green-eyed students will be less than 5”
+“The probability that the no. of diseased plants will be more than 20”

@@ -1,0 +1,12 @@
+1. Read the Aids2.csv file
+2. create a subset of the data without the state "Other"
+3. Use ifelse function for the following:
+
+Add a new variable called 'agebracket'
+   if age is below 20, agebracket is "0-20"
+   if age is between 20 to 40, agebracket is "20-40"
+   if age is between 40 to 60, agebracket is "40-60"
+   if age is above 60, agebracket is ">60"
+
+4. Sort the data from high to low based on the variable "diag" and then low to high based on "death"
+5. Calculate and add one more variable which is (diag^2/death) and name it as "dd"

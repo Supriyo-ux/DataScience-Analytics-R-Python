@@ -1,0 +1,29 @@
+Business Probelm 1:
+Target is to divide that economy into different cluster for analysis and which segment is lagging actually and it has to be diverse effect on the economy. At the end of the  it indirectly control the core economy.
+ Motive is to seeking the benefits of this informal economy on the formal one.
+
+
+
+Decision Trees are a popular Data Mining technique that makes use of a tree-like structure to deliver consequences based on input decisions. One important property of decision trees is that it is used for both regression and classification. This type of classification method is capable of handling heterogeneous as well as missing data. Decision Trees are further capable of producing understandable rules. 
+Furthermore, classifications can be performed without many computations.
+
+How to Create Decision Trees in R
+The Decision Tree techniques can detect criteria for the division of individual items of a group into predetermined classes that are denoted by n.
+
+In the first step, the variable of the root node is taken. This variable should be selected based on its ability to separate the classes efficiently. This operation starts with the division of variable into the given classes. This results in the creation of subpopulations. This operation repeats until no separation can be obtained.
+
+A tree exhibiting not more than two child nodes is a binary tree. The origin node is referred to as a node and the terminal nodes are the trees.
+
+1. Choosing a Variable
+2. Assigning Data to Nodes
+3. Pruning the Tree
+
+
+Guidelines for Building Decision Trees in R
+Decision Trees belong to the class of recursive partitioning algorithms that can be implemented easily. The algorithm for building decision tree algorithms are as follows:
+
+Firstly, the optimized approach towards data splitting should be quantified for each input variable.
+The best split is to be selected, followed by the division of data into subgroups that are structured by the split.
+After a subgroup is picked, we repeat step 1 for each of the underlying subgroups.
+The splitting is to be continued until you achieve the split that belongs to the same target variable value until you encounter a halt.
+

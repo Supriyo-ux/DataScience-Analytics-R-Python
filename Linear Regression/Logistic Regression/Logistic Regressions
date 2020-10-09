@@ -1,0 +1,27 @@
+Business Probelm:
+Motive of the business is based on the status of the customer whether the person is enable for loan or not.
+ They have used specific code credit and the model help
+ them to analyses that every person seeking for loan if they are default or not. 
+ This model helps to find the defaulter list and reject them immediately to get the loan.
+
+
+
+
+In logistic regression, we fit a regression curve, y = f(x) where y represents a categorical variable. 
+This model is used to predict that y has given a set of predictors x. Hence, the predictors can be continuous, categorical or a mix of both.
+
+It is a classification algorithm which comes under nonlinear regression. We use it to predict a binary outcome (1/ 0, Yes/ No, True/ False) given as a set of independent variables. Moreover, it helps to represent binary/categorical outcome by using dummy variables.
+
+It is a regression model in which the response variable has categorical values such as True/False or 0/1. Therefore, we are able to measure the probability of the binary response. 
+
+Syntax and Expression of R Logistic Regression
+The general mathematical equation for logistic regression is:
+
+y = 1/(1+e^-(a+b1x1+b2x2+b3x3+…))
+
+Following is the description of the parameters used:
+
+y is the response variable.
+x is the predictor variable.
+a and b are the coefficients which are numeric constants.
+We use the glm() function to create the regression model and also get its summary for analysis.

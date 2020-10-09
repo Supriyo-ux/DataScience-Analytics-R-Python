@@ -1,0 +1,20 @@
+In this tutorial, we are going to study about the R Linear Regression in detail. First of all, we will explore the types of linear regression in R and then learn about the least square estimation, working with linear regression and various other essential concepts related to it.
+Regression analysis is a statistical technique for determining the relationship between two or more than two variables. 
+There are two types of variables in regression analysis – independent variable and dependent variable. Independent variables are also known as predictor variables. These are the variables that do not change. On the other side, the variables whose values change are known as dependent variables. These variables depend on the independent variables. 
+Dependent variables are also known as response variables.
+Simple linear regression is used for finding the relationship between the dependent variable Y and the independent or predictor variable X. Both of these variables are continuous in nature. While performing simple linear regression, we assume that the values of predictor variable X are controlled. Furthermore, they are not subject to the measurement error from which the corresponding value of Y is observed.
+
+The equation of a simple linear regression model to calculate the value of the dependent variable, Y based on the predictor X is as follows:
+
+yi = β0 + β1x + ε
+Where the value of yi is calculated with the input variable xi  for every ith data point;
+
+The coefficients of regressions are denoted by β0 and β1;
+
+The ith value of x has εi as its error in the measurement.
+
+Regression analysis is implemented to do the following:
+
+With it, we can establish a linear relationship between the independent and the dependent variables.
+The input variables x1, x2….xn is responsible for predicting the value of y.
+In order to explain the dependent variable precisely, we need to identify the independent variables carefully. This will allow us to establish a more accurate causal relationship between these two variables.
